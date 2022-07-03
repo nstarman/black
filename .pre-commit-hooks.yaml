@@ -1,4 +1,4 @@
-- id: black
+- id: black-check
   name: black
   description: "Black: The uncompromising Python code formatter"
   entry: black
